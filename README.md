@@ -1,5 +1,5 @@
 ## Olá, sou Mike Borges
- <li>📚 Atualmente estudo HTML, CSS e JS.</li>
+ <li>📚 Atualmente estou cursando Análise e Desenvolvimento de Sistema e estudo HTML, CSS e JS.</li>
 <li>💻 Procuro pela primeira oportunidade no mercado.</li>
 
 <div align="center">
